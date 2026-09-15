@@ -1,4 +1,4 @@
-[SBC 2023](https://github.com/m4now4r/Presentations/blob/main/Unveiling%20Qakbot%3A%20Exploring%20one%20of%20the%20Most%20Active%20Threat%20Actors/SBC_2023.PNG)
+![SBC 2023](https://github.com/m4now4r/Presentations/blob/main/Unveiling%20Qakbot%3A%20Exploring%20one%20of%20the%20Most%20Active%20Threat%20Actors/SBC_2023.PNG)
 
 I would like to share my presentation at the *Security Bootcamp 2023 (SBC2023)* event, which took place over three days from September 8th to September 10th, 2023, in Da Nang city.
 
