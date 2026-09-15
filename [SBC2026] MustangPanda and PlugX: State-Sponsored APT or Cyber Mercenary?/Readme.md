@@ -1,3 +1,4 @@
+![SBC 2026](https://github.com/m4now4r/Presentations/blob/main/%5BSBC2026%5D%20MustangPanda%20and%20PlugX%3A%20State-Sponsored%20APT%20or%20Cyber%20Mercenary%3F/SBC_2026.PNG)
 **Event:** Security Bootcamp 2026 (Agentic Security) - Location: Buon Ma Thuot City, Dak Lak Province, Vietnam
 
 **Title:** MustangPanda and PlugX: State-Sponsored APT or Cyber Mercenary?
